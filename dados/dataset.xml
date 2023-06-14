@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<receita>
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Fulano</nome>
+        <data_nasc>15/08/1974</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1415</numero>
+            <bairro>Limão</bairro>
+            <cep>12121-777</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-1111</telefone>
+            <celular>(11) 91111-1111</celular>
+            <email>fulano@email.com</email>
+        </contato>
+        <renda>3.999,00</renda>
+        <foto>https://robohash.org/2804:7f5:9240:c551:48c9:cfb:754d:68bd.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Santander</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Fulano</nome>
+        <data_nasc>15/08/1974</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1415</numero>
+            <bairro>Limão</bairro>
+            <cep>12121-777</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-1111</telefone>
+            <celular>(11) 91111-1111</celular>
+            <email>fulano@email.com</email>
+        </contato>
+        <renda>3.999,00</renda>
+        <foto>https://robohash.org/2804:7f5:8965:c551:48c9:cfb:754d:68bd.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Santander</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Fulano</nome>
+        <data_nasc>15/08/1974</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1415</numero>
+            <bairro>Limão</bairro>
+            <cep>12121-777</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-1111</telefone>
+            <celular>(11) 91111-1111</celular>
+            <email>fulano@email.com</email>
+        </contato>
+        <renda>3.999,00</renda>
+        <foto>https://robohash.org/2804:7f5:9240:c551:9595:cfb:361a:68bd.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Santander</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+    <contribuinte>
+        <cpf>111.111.111-11</cpf>
+        <rg>11.111.111-4</rg>
+        <nome>Fulano</nome>
+        <data_nasc>15/08/1974</data_nasc>
+        <endereco>
+            <logradouro>Alameda</logradouro>
+            <numero>1415</numero>
+            <bairro>Limão</bairro>
+            <cep>12121-777</cep>
+            <cidade>São Paulo</cidade>
+            <estado>São Paulo</estado>
+        </endereco>
+        <contato>
+            <telefone>(11) 1111-1111</telefone>
+            <celular>(11) 91111-1111</celular>
+            <email>fulano@email.com</email>
+        </contato>
+        <renda>3.999,00</renda>
+        <foto>https://robohash.org/2804:7f5:ffgt:cc51:85ff:cfb:754d:6fg5.png?size=200x200&amp;set=set1</foto>
+        <conta>
+            <banco>Santander</banco>
+            <ag>3333-3</ag>
+            <cc>222222-2</cc>
+        </conta>
+    </contribuinte>
+
+</receita>
